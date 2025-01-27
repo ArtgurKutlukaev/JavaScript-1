@@ -36,3 +36,4 @@ function calculateTotalMortgage(percent, contribution, amount, countMonths) {
         console.log(totalAmount);
         return +totalAmount;
     }
+}
